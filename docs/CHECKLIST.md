@@ -13,13 +13,13 @@
 
 ## Implementação
 
-- [ ] `gemm_naive`.
-- [ ] `gemm_transposed`.
-- [ ] `gemm_blocked`.
-- [ ] `gemm_openmp`.
-- [ ] `gemm_blocked_openmp`.
-- [ ] `gemm_cuda_naive`.
-- [ ] `gemm_cuda_tiled`.
+- [x] `gemm_naive`.
+- [x] `gemm_transposed`.
+- [x] `gemm_blocked`.
+- [x] `gemm_openmp`.
+- [x] `gemm_blocked_openmp`.
+- [x] `gemm_cuda_naive`.
+- [x] `gemm_cuda_tiled`.
 
 ## Experimentos
 
